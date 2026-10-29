@@ -9,7 +9,9 @@ Kamaji 설계에 참고하는 외부 원본. 수정하지 않고 읽기 전용�
 - 출처: https://github.com/cursor/plugins/tree/main/pstack
 - 커밋: `1ba91fc25c0977741dd0e267849e6234b037ed0a` (2026-10-28)
 - 작성자: Lauren Tan (@poteto)
-- 라이선스: MIT (`pstack/LICENSE`)
+- 라이선스: MIT (`pstack-original/LICENSE`)
+- `pstack-original/`: 위 커밋의 원본. 인용하거나 문구를 비교할 때는 이쪽을 본다.
+- `pstack/`: 원본의 문서를 한글로 옮긴 번역본. 파일 구성, 스킬 이름, 원칙·플레이북 이름, 코드는 원본과 같다. `statechart`의 테스트 보고서(`corpus/*/report.md`)는 번역하지 않았다.
 
 ## open-pstack
 
